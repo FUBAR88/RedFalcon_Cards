@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{26C108628E0A206E}RedFalcon_Cards/RF_Slots/gui/imagesets/pilot_license.edds"
+ Author "sean-pc"
+ ChangeDate 1310028333
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "pilot_license.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
